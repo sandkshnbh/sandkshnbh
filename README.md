@@ -1,2 +1,3 @@
-### Sand Kshnbh سند كشنبه
-في زبون حسابك يفرخ قحبه
+git clonehttps://github.com/sandkshnbh/sandkshnbh
+cd sandkshnbh
+python sand.kshnbh
