@@ -14,7 +14,7 @@
 
 ```bash
 👤 User:       Sand Kshnbh
-🌍 Location:   Yefren, Libya 🇱🇾
+🌍 Location:   Libya 🇱🇾
 🧠 Focus:      Flutter, Firebase, Supabase, AI
 💡 Status:     Building tools, breaking limits.
 💻 Motto:      "Hack the rules. Create your own system."
