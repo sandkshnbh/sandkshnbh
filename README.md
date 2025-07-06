@@ -1,19 +1,20 @@
-<!-- 🧠 Hacker Banner -->
+<!-- 💥 بانر متحرك فاخر -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=160&section=header&text=Sand%20Kshnbh&fontSize=45&fontColor=00ff9f&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sand%20Kshnbh&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 🔥 Terminal Typing -->
+<!-- ⌨️ كتابة هاكرية متغيرة -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&lines=%24+whoami;Sand+Kshnbh+-+Libyan+Cyber+Dev;Flutter+%7C+AI+%7C+Linux+%7C+Firebase+%7C+Supabase;Building+dark+tools+and+intelligent+systems+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+my+digital+domain.;Flutter+Engineer+%7C+AI+Hacker+%7C+Linux+Wizard.;Creator+of+Pimo+👾+%7C+Master+of+Code.;Coding+in+darkness+to+build+the+future." />
 </p>
 
 ---
 
-## 🧠 Identity
+## 🧬 Digital Identity
 
 ```bash
-Username : sandkshnbh
-Status   : Active Developer | Ethical Hacker
-Location : Yefren, Libya 🇱🇾
-Focus    : Flutter, AI APIs, Reverse Engineering
+👤 User:       Sand Kshnbh
+🌍 Location:   Yefren, Libya 🇱🇾
+🧠 Focus:      Flutter, Firebase, Supabase, AI
+💡 Status:     Building tools, breaking limits.
+💻 Motto:      "Hack the rules. Create your own system."
