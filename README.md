@@ -2,7 +2,7 @@
 <h3 align="center">مطور تطبيقات من ليبيا، أعشق البرمجة والابتكار ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Flutter+Dev+🚀;AI+Explorer+🤖;Linux+User+💻;Dreamer+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Flutter+Developer+🚀;AI+Explorer+🤖;Linux+User+💻;Dreamer+🔥" alt="Typing SVG" />
 </p>
 
 ---
