@@ -1,24 +1,19 @@
-<!-- Banner متحرك -->
+<!-- 🧠 Hacker Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F6F6F&height=200&section=header&text=Sand%20Kshnbh&fontSize=40&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=160&section=header&text=Sand%20Kshnbh&fontSize=45&fontColor=00ff9f&animation=fadeIn" />
 </p>
 
-<!-- كاتب متحرك -->
+<!-- 🔥 Terminal Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Sand+Kshnbh;AI+%7C+Flutter+%7C+Linux+Enthusiast;Building+awesome+tools+with+love+%E2%9D%A4%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&lines=%24+whoami;Sand+Kshnbh+-+Libyan+Cyber+Dev;Flutter+%7C+AI+%7C+Linux+%7C+Firebase+%7C+Supabase;Building+dark+tools+and+intelligent+systems+%F0%9F%94%A5" />
 </p>
 
 ---
 
-### 👤 About Me
+## 🧠 Identity
 
-```yaml
-username: sandkshnbh
-role: Mobile Dev | AI Enthusiast | Creative Builder
-location: Yefren, Libya 🇱🇾
-working_on:
-  - Pimo 👾 (AI-powered Productivity App)
-learning: 
-  - Supabase | Rive | Serverless AI
-contact: youremail@example.com
-status: Dreaming Big, Coding Hard 💪
+```bash
+Username : sandkshnbh
+Status   : Active Developer | Ethical Hacker
+Location : Yefren, Libya 🇱🇾
+Focus    : Flutter, AI APIs, Reverse Engineering
