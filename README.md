@@ -1,15 +1,24 @@
-<h1 align="center">👾 Hey, I'm Sand Kshnbh</h1>
-<h3 align="center">A self-taught app developer from Libya 🇱🇾</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o6Zt8zb1QGOAlP5rK/giphy.gif" alt="fireworks" width="60" style="vertical-align:middle;" />
+  👾 Hey, I'm <span style="color:#00d8ff;">Sand Kshnbh</span>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="sparkles" width="60" style="vertical-align:middle;" />
+</h1>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/xUOwG4w5HuSvPz6xva/giphy.gif" alt="typing dots" width="20" style="vertical-align:middle;"/>  
+  A self-taught app developer from Libya 🇱🇾
+  <img src="https://media.giphy.com/media/xUOwG4w5HuSvPz6xva/giphy.gif" alt="typing dots" width="20" style="vertical-align:middle;"/>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Flutter+Developer+🚀;AI+Explorer+🤖;Linux+User+💻;Creative+Dreamer+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=4000&pause=1000&color=00d8ff&center=true&vCenter=true&width=450&lines=Flutter+Developer+🚀;AI+Explorer+🤖;Linux+User+💻;Creative+Dreamer+🔥" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🇱🇾 I'm an indie developer based in Libya
+- 🇱🇾 I'm an indie developer based in Yefren, Libya
 - 👨‍💻 Currently working on **Pimo** – a smart video downloader app
 - 🌱 Learning Flutter, Supabase, AI, and Web Dev
 - 🎧 I love coding in dark mode with lo-fi music
