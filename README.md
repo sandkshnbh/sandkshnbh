@@ -1,22 +1,23 @@
-<h1 align="center">👾 أهلاً، أنا سند كشنبه</h1>
-<h3 align="center">مطور تطبيقات من ليبيا، أعشق البرمجة والابتكار ✨</h3>
+<h1 align="center">👾 Hey, I'm Sand Kshnbh</h1>
+<h3 align="center">A self-taught app developer from Libya 🇱🇾</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Flutter+Developer+🚀;AI+Explorer+🤖;Linux+User+💻;Dreamer+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Flutter+Developer+🚀;AI+Explorer+🤖;Linux+User+💻;Creative+Dreamer+🔥" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 من أنا؟
+### 🧠 About Me
 
-- 🇱🇾 مطور مستقل من يفرن، ليبيا
-- 👨‍💻 أشتغل حاليًا على تطبيق **Pimo** لتنزيل الفيديوهات وتطبيقات مبتكرة
-- 🔍 أتعلم Flutter، Supabase، AI، WebDev
-- ⚡ أحب واجهات مظلمة، أكتب كود وأنا أسمع موسيقى 👨‍🎧
+- 🇱🇾 I'm an indie developer based in Libya
+- 👨‍💻 Currently working on **Pimo** – a smart video downloader app
+- 🌱 Learning Flutter, Supabase, AI, and Web Dev
+- 🎧 I love coding in dark mode with lo-fi music
+- 💡 I build tools that simplify life
 
 ---
 
-### 🛠️ المهارات والأدوات:
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -28,17 +29,17 @@
 
 ---
 
-### 📱 مشاريعي البارزة:
+### 🚀 Highlight Projects
 
-| 📱 المشروع | 💬 الوصف |
-|------------|----------|
-| **Pimo 👾** | تطبيق أندرويد لتحميل الفيديوهات من كل المنصات |
-| **Pimo Notes 📝** | تطبيق Flutter بسيط لتدوين الملاحظات |
-| **Pimo Studio** | بيئة تطوير HTML/JS مخصصة للأندرويد |
+| 📱 Project       | 💬 Description                                      |
+|------------------|-----------------------------------------------------|
+| **Pimo 👾**       | Android app for downloading videos from any platform |
+| **Pimo Notes 📝** | Minimal Flutter app for daily notes                 |
+| **Pimo Studio 💻** | Lightweight dev environment for HTML/JS on Android |
 
 ---
 
-### 📊 إحصائياتي:
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandkshnbh&show_icons=true&theme=tokyonight" alt="stats" />
@@ -47,7 +48,7 @@
 
 ---
 
-### 📫 تواصل معي:
+### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:sandkshnbh@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -57,4 +58,4 @@
 
 ---
 
-<p align="center">🌟 لا تنسى تعاين المشاريع وتدعمني بنجمة ⭐ لو عجبك الشغل!</p>
+<p align="center">⭐️ Don't forget to star the projects you like!</p>
