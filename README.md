@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/3o6Zt8zb1QGOAlP5rK/giphy.gif" alt="fireworks" width="60" style="vertical-align:middle;" />
-  👾 Hey, I'm <span style="color:#00d8ff;">Sand Kshnbh</span>
+  👾 Hey, I'm 
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Sand Kshnbh animated name" width="180" style="vertical-align:middle; margin-left:8px;" />
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="sparkles" width="60" style="vertical-align:middle;" />
 </h1>
 
@@ -68,5 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Sand Kshnbh glowing name" width="200" />
+  ⭐️ Don't forget to star the projects you like!
+  <br/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="stars animation" width="100" />
 </p>
