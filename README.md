@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/xUOwG4w5HuSvPz6xva/giphy.gif" alt="typing dots" width="20" style="vertical-align:middle;"/>  
-  A self-taught app developer from Libya 🇱🇾
+  A self-taught app developer from Libya 
   <img src="https://media.giphy.com/media/xUOwG4w5HuSvPz6xva/giphy.gif" alt="typing dots" width="20" style="vertical-align:middle;"/>
 </h3>
 
@@ -16,21 +16,13 @@
 
 ---
 
-### 🎬 Latest Video Demo (Pimo App)
-
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" title="Pimo App Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
----
-
 ### 🧠 About Me
 
-- 🇱🇾 Indie developer based in Yefren, Libya
-- 👨‍💻 Working on **Pimo** – smart video downloader app
-- 🌱 Learning Flutter, Supabase, AI, Web Development
-- 🎧 Coding in dark mode with lo-fi beats
-- 💡 Building simple tools that solve complex problems
+- <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Libya flag" width="18" style="vertical-align:middle;" /> I'm an indie developer based in Yefren, Libya
+- <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coding" width="18" style="vertical-align:middle;" /> Currently working on **Pimo** – a smart video downloader app
+- <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="learning" width="18" style="vertical-align:middle;" /> Learning Flutter, Supabase, AI, and Web Dev
+- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="music" width="18" style="vertical-align:middle;" /> I love coding in dark mode with lo-fi music
+- <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="idea" width="18" style="vertical-align:middle;" /> I build tools that simplify life
 
 ---
 
@@ -48,7 +40,7 @@
 
 ### 🚀 Highlight Projects
 
-| 📱 Project       | 💬 Description                                      |
+| <img src="https://media.giphy.com/media/f9kVfS17xFsM0/giphy.gif" alt="rocket" width="20" style="vertical-align:middle;" /> Project       | 💬 Description                                      |
 |------------------|-----------------------------------------------------|
 | **Pimo 👾**       | Android app for downloading videos from any platform |
 | **Pimo Notes 📝** | Minimal Flutter app for daily notes                 |
