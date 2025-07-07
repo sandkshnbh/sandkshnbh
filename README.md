@@ -68,7 +68,5 @@
 ---
 
 <p align="center">
-  ⭐️ Don't forget to star the projects you like!
-  <br/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="stars animation" width="100" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Sand Kshnbh glowing name" width="200" />
 </p>
