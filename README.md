@@ -40,7 +40,7 @@
 
 ### 🚀 Highlight Projects
 
-| <img src="https://media.giphy.com/media/f9kVfS17xFsM0/giphy.gif" alt="rocket" width="20" style="vertical-align:middle;" /> Project       | 💬 Description                                      |
+| <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="glowing star" width="20" style="vertical-align:middle;" /> Project       | 💬 Description                                      |
 |------------------|-----------------------------------------------------|
 | **Pimo 👾**       | Android app for downloading videos from any platform |
 | **Pimo Notes 📝** | Minimal Flutter app for daily notes                 |
