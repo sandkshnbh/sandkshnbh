@@ -16,13 +16,21 @@
 
 ---
 
+### 🎬 Latest Video Demo (Pimo App)
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" title="Pimo App Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+---
+
 ### 🧠 About Me
 
-- 🇱🇾 I'm an indie developer based in Yefren, Libya
-- 👨‍💻 Currently working on **Pimo** – a smart video downloader app
-- 🌱 Learning Flutter, Supabase, AI, and Web Dev
-- 🎧 I love coding in dark mode with lo-fi music
-- 💡 I build tools that simplify life
+- 🇱🇾 Indie developer based in Yefren, Libya
+- 👨‍💻 Working on **Pimo** – smart video downloader app
+- 🌱 Learning Flutter, Supabase, AI, Web Development
+- 🎧 Coding in dark mode with lo-fi beats
+- 💡 Building simple tools that solve complex problems
 
 ---
 
@@ -67,4 +75,8 @@
 
 ---
 
-<p align="center">⭐️ Don't forget to star the projects you like!</p>
+<p align="center">
+  ⭐️ Don't forget to star the projects you like!
+  <br/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="stars animation" width="100" />
+</p>
