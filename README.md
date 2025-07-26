@@ -1,26 +1,28 @@
-<h1 align="center">مرحبا، أنا <span style="color:#B2FF59;">سند كشنبه</span> 👾</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F6F6F&center=true&vCenter=true&width=440&height=45&lines=مبرمج+ليبي+;مبتكر+في+الذكاء+الاصطناعي+;أحب+التطوير+والتحكم+بالعالم+بلغة+الكود+;مرحبا+بكم+في+عالمي" alt="Typing SVG" />
-</p>
-
+<!-- تصميم زجاجي فريد من نوعه -->
 <div align="center">
-  <img src="https://i.imgur.com/KoM0Bgt.png" alt="profile" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.1);" />
+
+<img src="https://i.imgur.com/dRP3nHu.png" width="180" style="border-radius: 50%;" />
+
+<h1 style="font-weight:bold;color:#B2FF59;font-size:48px;">SAND KSHNBH</h1>
+<h3 style="color:#6F6F6F;">مُصمم أنظمة... كاسر قواعد البرمجة</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&center=true&vCenter=true&multiline=true&color=00FFBB&lines=☠️+مابنديرش+زي+الباقي...+نخلق+نظام+جديد.;💥+أنا+الفكرة+اللي+ما+تتكرر+.;👾+Pimo+OS+مش+تطبيق...+هو+ثورة." />
+
 </div>
 
 ---
 
-### 🧠 نبذة بسيطة عني:
-- 👨‍💻 أعمل على مشاريع مثل **Pimo OS** و **Pimo Studio**.
-- 🧬 أؤمن أن البرمجة هي مفتاح التحكم بالحياة.
-- 💡 أبتكر أفكار تغير المفهوم التقليدي للتطبيقات.
-- 🔥 أستخدم **Linux + Flutter + Python + Dart** كأدوات رئيسية.
+### 🌌 عني:
+
+🧬 العقل خلف WebPyShield, Pimo OS, و Pimo Studio  
+🧠 أبتكر أفكارًا غير قابلة للنسخ، ولا حتى من الذكاء الاصطناعي  
+🔮 هدفي: أكون نظام بذاتي، مش مجرد مستخدم  
 
 ---
 
-### 🛠️ مهاراتي:
+### 🧰 أدواتي السرية:
 
 ```txt
-💻 لغات:         Dart | Python | Java | HTML | CSS | JS | Bash
-🧰 أدوات:        Flutter | Supabase | Firebase | Linux | Git | WebPyShield
-🎨 تصميم:        Glassmorphism | Dark UI | Custom UI | Terminal Themes
+🎯 Dart | Python | HTML | Linux | Flutter | Supabase | Firebase
+🚀 نظامي: Linux Mint / Android Engineering
+🔐 تخصصي: حماية + كسر + بناء من لا شيء
