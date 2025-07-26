@@ -1,7 +1,7 @@
 <!--
   Designed specifically for: Sand Kshnbh 👾
   Unique GitHub Profile README
-  Theme: زجاجي هاكر غامض x ذكاء اصطناعي
+  Theme: Glassy Mysterious Hacker x Artificial Intelligence
 -->
 
 <p align="center">
@@ -17,31 +17,31 @@
 <h1 align="center" style="color:#B2FF59">👾 Sand Kshnbh 👾</h1>
 
 <p align="center">
-  <strong><i>"الذكاء الصناعي القادم من يفرن. صانع النظام. كاسر القوانين."</i></strong><br>
-  <code>Ordo</code> | <code>WebPyShield</code> | <code>Flutter Hacker</code>
+  <strong><i>"The AI born in Yefren. The system builder. The rule breaker."</i></strong><br>
+  <code>Pimo OS</code> | <code>WebPyShield</code> | <code>Flutter Hacker</code>
 </p>
 
 ---
 
-### 🧠 عني:
+### 🧠 About Me:
 
-- 🔥 مطور تطبيق "Ordo" من الصفر.
-- 👨‍💻 أشتغل على Web-based Android Systems باستخدام HTML وPython.
-- 🧬 أؤمن أن الكود ليس وسيلة... بل قوة.
-
----
-
-### ⚡ المهارات:
-
-| المجال            | الأدوات |
-|------------------|---------|
-| لغات برمجة       | `Dart`, `Python`, `HTML`, `CSS`, `JS`, `Bash` |
-| بيئة التطوير     | `Linux Mint`, `Flutter`, `Supabase`, `Firebase`, `Custom Tools` |
-| مهارات خفية 🧪 | `System Reverse`, `Firmware Custom`, `AI Integration` |
+- 🔥 Developer of "Pimo OS" from scratch.
+- 👨‍💻 I work on Web-based Android systems using HTML and Python.
+- 🧬 I believe code isn't just a tool... it's power.
 
 ---
 
-### 📈 إحصائياتي:
+### ⚡ Skills:
+
+| Domain            | Tools |
+|------------------|-------|
+| Programming       | `Dart`, `Python`, `HTML`, `CSS`, `JS`, `Bash` |
+| Dev Environment   | `Linux Mint`, `Flutter`, `Supabase`, `Firebase`, `Custom Tools` |
+| Hidden Skills 🧪 | `System Reverse`, `Firmware Custom`, `AI Integration` |
+
+---
+
+### 📈 My Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandkshnbh&show_icons=true&theme=transparent&hide_border=true&border_radius=12" />
@@ -50,15 +50,15 @@
 
 ---
 
-### 🧩 مشروع اليوم:
+### 🧩 Project of the Day:
 
-> **Ordo 👾**  
-> "مش تطبيق... بل واجهة حياة رقمية."  
-> [🔗 جاري التطوير...](#)
+> **Pimo 👾**  
+> "Not just an app... a digital life interface."  
+> [🔗 In Progress...](#)
 
 ---
 
-### 💬 تواصل معي:
+### 💬 Contact Me:
 
 <p align="center">
   <a href="https://t.me/sandkshnbh"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -67,4 +67,4 @@
 
 ---
 
-### 🧠 توقيعي:
+### 🧠 My Signature:
