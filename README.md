@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong><i>"الذكاء الصناعي القادم من يفرن. صانع النظام. كاسر القوانين."</i></strong><br>
-  <code>Pimo OS</code> | <code>WebPyShield</code> | <code>Flutter Hacker</code>
+  <code>Ordo</code> | <code>WebPyShield</code> | <code>Flutter Hacker</code>
 </p>
 
 ---
