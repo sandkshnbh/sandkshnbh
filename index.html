@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sand Kshnbh – Libyan Developer & Innovator</title>
+    <style>
+        /* Reset and Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: #0a0a0a;
+            color: #e0e0e0;
+            line-height: 1.6;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        .header {
+            background: #00ff9d;
+            color: #000;
+            padding: 40px 0;
+            text-align: center;
+            border-radius: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 255, 157, 0.3);
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        /* Profile Section */
+        .profile {
+            background-color: #101010;
+            border: 1px solid #1a1a1a;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+        }
+
+        .profile-grid {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .profile-image {
+            width: 200px;
+            height: 200px;
+            background: #00ff9d;
+            color: #000;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3em;
+            margin: 0 auto;
+        }
+
+        /* Interests */
+        .interests {
+            background-color: #101010;
+            border: 1px solid #1a1a1a;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+        }
+
+        .interests h2 {
+            color: #00ff9d;
+            margin-bottom: 20px;
+        }
+
+        .interest-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .interest-tag {
+            background: #1a1a1a;
+            color: #e0e0e0;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-size: 0.9em;
+            transition: all 0.3s ease;
+            border: 1px solid #2a2a2a;
+        }
+
+        .interest-tag:hover {
+            background: #00ff9d;
+            color: #000;
+            transform: translateY(-2px);
+        }
+
+        /* Experience */
+        .experience {
+            background-color: #101010;
+            border: 1px solid #1a1a1a;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+        }
+
+        .experience h2 {
+            color: #00ff9d;
+            margin-bottom: 20px;
+        }
+
+        .exp-item {
+            padding: 20px;
+            margin-bottom: 15px;
+            background: #0a0a0a;
+            border-radius: 10px;
+            border-left: 4px solid #00ff9d;
+            border: 1px solid #1a1a1a;
+        }
+
+        .exp-title {
+            font-weight: bold;
+            color: #e0e0e0;
+            margin-bottom: 5px;
+        }
+
+        .exp-date {
+            color: #888;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+
+        .exp-desc {
+            color: #aaa;
+            font-size: 0.95em;
+        }
+
+        /* Skills */
+        .skills {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .skill-category {
+            background-color: #101010;
+            border: 1px solid #1a1a1a;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+        }
+
+        .skill-category h3 {
+            color: #00ff9d;
+            margin-bottom: 15px;
+        }
+
+        .skill-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .skill-item {
+            background: #0a0a0a;
+            color: #ccc;
+            padding: 8px 15px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            font-weight: 500;
+            border: 1px solid #2a2a2a;
+        }
+
+        /* Portfolio Links */
+        .portfolio {
+            background-color: #101010;
+            border: 1px solid #1a1a1a;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+        }
+
+        .portfolio h2 {
+            color: #00ff9d;
+            margin-bottom: 20px;
+        }
+
+        .portfolio-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+        }
+
+        .portfolio-link {
+            background: #00ff9d;
+            color: #000;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .portfolio-link:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 255, 157, 0.4);
+        }
+
+        /* Contact */
+        .contact {
+            background-color: #101010;
+            border: 1px solid #1a1a1a;
+            border-radius: 20px;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .contact-item {
+            color: #00ff9d;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .contact-item:hover {
+            color: #00cc7a;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .profile-grid {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .portfolio-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-info {
+                flex-direction: column;
+                gap: 15px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 10px;
+            }
+
+            .header {
+                padding: 30px 15px;
+            }
+
+            .profile, .interests, .experience, .skill-category, .portfolio, .contact {
+                padding: 20px;
+            }
+        }
+
+        /* Animation */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header, .profile, .interests, .experience, .skill-category, .portfolio, .contact {
+            animation: fadeIn 0.6s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>Sand Kshnbh</h1>
+            <p>Self-taught Libyan developer & innovator creating open-source tools for Arabic users, focused on lightweight Android apps and clean UI/UX.</p>
+        </header>
+
+        <!-- Profile Section -->
+        <section class="profile">
+            <div class="profile-grid">
+                <div class="profile-image">SK</div>
+                <div>
+                    <h2>About Me</h2>
+                    <p>20 years old • Based in Libya</p>
+                    <p>Self-learner in Flutter, Python & Web</p>
+                    <p>Diploma in Computer Science (ongoing)</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interests -->
+        <section class="interests">
+            <h2>Interests</h2>
+            <div class="interest-tags">
+                <span class="interest-tag">Open-Source</span>
+                <span class="interest-tag">Android Dev</span>
+                <span class="interest-tag">UI/UX Design</span>
+                <span class="interest-tag">Community</span>
+            </div>
+        </section>
+
+        <!-- Experience -->
+        <section class="experience">
+            <h2>Experience</h2>
+            <div class="exp-item">
+                <div class="exp-title">Independent Developer</div>
+                <div class="exp-date">2022 - Present</div>
+                <div class="exp-desc">Building Android apps and open-source tools for Arabic users, focusing on performance and accessibility.</div>
+            </div>
+            <div class="exp-item">
+                <div class="exp-title">Open-Source Contributor</div>
+                <div class="exp-date">2021 - Present</div>
+                <div class="exp-desc">Maintaining GitHub repositories, sharing Flutter/Dart utilities, and mentoring new developers in the region.</div>
+            </div>
+        </section>
+
+        <!-- Skills -->
+        <section class="skills">
+            <div class="skill-category">
+                <h3>Dev Tools</h3>
+                <div class="skill-list">
+                    <span class="skill-item">Flutter / Dart</span>
+                    <span class="skill-item">HTML / CSS / JS</span>
+                    <span class="skill-item">Python</span>
+                    <span class="skill-item">Supabase / Firebase</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3>Design Tools</h3>
+                <div class="skill-list">
+                    <span class="skill-item">Figma</span>
+                    <span class="skill-item">Adobe XD</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <h3>Languages</h3>
+                <div class="skill-list">
+                    <span class="skill-item">Arabic</span>
+                    <span class="skill-item">English</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Portfolio Links -->
+        <section class="portfolio">
+            <h2>Portfolio</h2>
+            <div class="portfolio-grid">
+                <a href="https://github.com/SandKshnbh" class="portfolio-link">GitHub</a>
+                <a href="https://twitter.com/SandKshnbh" class="portfolio-link">Twitter</a>
+                <a href="https://behance.net/SandKshnbh" class="portfolio-link">Behance</a>
+                <a href="https://youtube.com/@SandKshnbh" class="portfolio-link">YouTube</a>
+                <a href="https://dribbble.com/SandKshnbh" class="portfolio-link">Dribbble</a>
+            </div>
+        </section>
+
+        <!-- Contact -->
+        <section class="contact">
+            <h2>Get In Touch</h2>
+            <div class="contact-info">
+                <a href="mailto:sand@example.com" class="contact-item">sand@example.com</a>
+                <a href="https://t.me/SandKshnbh" class="contact-item">@SandKshnbh</a>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        // Smooth scrolling for internal links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Add hover effect to portfolio links
+        const portfolioLinks = document.querySelectorAll('.portfolio-link');
+        portfolioLinks.forEach(link => {
+            link.addEventListener('mouseenter', function() {
+                this.style.transform = 'translateY(-3px) scale(1.05)';
+            });
+            link.addEventListener('mouseleave', function() {
+                this.style.transform = 'translateY(0) scale(1)';
+            });
+        });
+
+        // Add loading animation
+        window.addEventListener('load', function() {
+            document.body.style.opacity = '0';
+            document.body.style.transition = 'opacity 0.5s ease-in-out';
+            setTimeout(() => {
+                document.body.style.opacity = '1';
+            }, 100);
+        });
+
+        // Mobile menu toggle (if needed in future)
+        const mediaQuery = window.matchMedia('(max-width: 768px)');
+        function handleScreenChange(e) {
+            if (e.matches) {
+                // Mobile specific code
+                console.log('Mobile view activated');
+            }
+        }
+        mediaQuery.addListener(handleScreenChange);
+        handleScreenChange(mediaQuery);
+    </script>
+</body>
+</html>
