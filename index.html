@@ -40,7 +40,6 @@
         .portfolio-icon span{font-size:.9rem;font-weight:600;color:#e0e0e0}
         .portfolio-icon:hover span{color:#000}
 
-        /* تنسيقات Get In Touch أفقياً */
         .contact-info{display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-top:20px}
         .contact-item{
             display:inline-flex;
@@ -58,8 +57,29 @@
         .contact-item i{font-size:1.3em}
         .contact-item:hover{background:#00ff9d;color:#000;border-color:#00ff9d;transform:translateY(-2px)}
         @media(max-width:768px){.profile-grid{grid-template-columns:1fr;text-align:center}}
-        @keyframes fadeIn{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
-        .section{animation:fadeIn .6s ease-out}
+
+        /* =============== تحسينات الموبايل =============== */
+        @media (max-width: 600px) {
+            .container{padding:12px}
+            .section{padding:20px 15px;margin-bottom:20px}
+            .header h1{font-size:2em}
+            .header p{font-size:1em}
+            h2{font-size:1.5em}
+            .profile-image{width:140px;height:140px;font-size:2.2em}
+            .interest-tag{padding:8px 14px;font-size:.8em}
+            .skill-item{padding:6px 12px;font-size:.8em}
+            .portfolio-grid{grid-template-columns:repeat(auto-fit,minmax(90px,1fr));gap:12px}
+            .portfolio-icon{font-size:2.2rem;padding:15px 10px}
+            .portfolio-icon span{font-size:.75rem}
+            .contact-info{flex-direction:row;gap:10px}
+            .contact-item{
+                flex:1 1 45%;
+                padding:10px 12px;
+                font-size:.85em;
+                justify-content:center
+            }
+            .contact-item i{font-size:1.1em}
+        }
     </style>
 </head>
 <body>
