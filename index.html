@@ -17,8 +17,10 @@
         .profile-grid{display:grid;grid-template-columns:1fr 2fr;gap:30px;align-items:center}
         .profile-image{width:200px;height:200px;background:#00ff9d;color:#000;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:3em;margin:0 auto}
         .interest-tags{display:flex;flex-wrap:wrap;gap:10px}
-        .interest-tag{background:#1a1a1a;color:#e0e0e0;padding:10px 20px;border-radius:25px;font-size:.9em;transition:all .3s}
+        .interest-tag{display:inline-flex;align-items:center;gap:8px;background:#1a1a1a;color:#e0e0e0;padding:10px 20px;border-radius:25px;font-size:.9em;transition:all .3s}
+        .interest-tag i{color:#00ff9d;font-size:1.1em}
         .interest-tag:hover{background:#00ff9d;color:#000;transform:translateY(-2px)}
+        .interest-tag:hover i{color:#000}
         .skills{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:30px;margin-bottom:30px}
         .skill-category{background:#101010;border:1px solid #1a1a1a;border-radius:20px;padding:30px;box-shadow:0 5px 20px rgba(0,0,0,.5)}
         .skill-category h3{color:#00ff9d;margin-bottom:15px;font-size:1.3rem}
@@ -26,73 +28,35 @@
         .skill-item{display:flex;align-items:center;gap:8px;background:#0a0a0a;padding:8px 15px;border-radius:12px;font-size:.9em;border:1px solid #2a2a2a}
         .skill-item i{color:#00ff9d;font-size:1.2rem}
 
-        /* Experience spacing fix */
-        .experience-list {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
-        .exp-item {
-            padding: 20px;
-            background: #0a0a0a;
-            border: 1px solid #1a1a1a;
-            border-radius: 12px;
-            border-left: 4px solid #00ff9d;
-        }
-        .exp-title {
-            font-weight: bold;
-            color: #e0e0e0;
-            margin-bottom: 5px;
-            font-size: 1.1em;
-        }
-        .exp-date {
-            color: #00ff9d;
-            font-size: 0.9em;
-            margin-bottom: 8px;
-        }
-        .exp-desc {
-            color: #aaa;
-            font-size: 0.95em;
-        }
+        .experience-list{display:flex;flex-direction:column;gap:20px}
+        .exp-item{padding:20px;background:#0a0a0a;border:1px solid #1a1a1a;border-radius:12px;border-left:4px solid #00ff9d}
+        .exp-title{font-weight:bold;color:#e0e0e0;margin-bottom:5px;font-size:1.1em}
+        .exp-date{color:#00ff9d;font-size:.9em;margin-bottom:8px}
+        .exp-desc{color:#aaa;font-size:.95em}
 
-        /* Portfolio icons grid */
-        .portfolio-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-            gap: 20px;
-        }
-        .portfolio-icon {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 10px;
-            color: #00ff9d;
-            font-size: 3rem;
-            text-decoration: none;
-            transition: .3s;
-            padding: 20px;
-            border-radius: 16px;
-            background: #0a0a0a;
-            border: 1px solid #1a1a1a;
-        }
-        .portfolio-icon:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 255, 157, .3);
-            background: #00ff9d;
-            color: #000;
-        }
-        .portfolio-icon span {
-            font-size: 0.9rem;
-            font-weight: 600;
-            color: #e0e0e0;
-        }
-        .portfolio-icon:hover span {
-            color: #000;
-        }
+        .portfolio-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:20px}
+        .portfolio-icon{display:flex;flex-direction:column;align-items:center;gap:10px;color:#00ff9d;font-size:3rem;text-decoration:none;transition:.3s;padding:20px;border-radius:16px;background:#0a0a0a;border:1px solid #1a1a1a}
+        .portfolio-icon:hover{transform:translateY(-5px);box-shadow:0 10px 25px rgba(0,255,157,.3);background:#00ff9d;color:#000}
+        .portfolio-icon span{font-size:.9rem;font-weight:600;color:#e0e0e0}
+        .portfolio-icon:hover span{color:#000}
 
-        .contact-info{display:flex;justify-content:center;gap:30px;flex-wrap:wrap;margin-top:20px}
-        .contact-item{color:#00ff9d;font-weight:600;text-decoration:none;transition:.3s}
-        .contact-item:hover{color:#00cc7a}
+        /* تنسيقات Get In Touch أفقياً */
+        .contact-info{display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-top:20px}
+        .contact-item{
+            display:inline-flex;
+            align-items:center;
+            gap:8px;
+            color:#00ff9d;
+            font-weight:600;
+            text-decoration:none;
+            transition:.3s;
+            padding:12px 24px;
+            border:1px solid #1a1a1a;
+            border-radius:16px;
+            background:#0a0a0a
+        }
+        .contact-item i{font-size:1.3em}
+        .contact-item:hover{background:#00ff9d;color:#000;border-color:#00ff9d;transform:translateY(-2px)}
         @media(max-width:768px){.profile-grid{grid-template-columns:1fr;text-align:center}}
         @keyframes fadeIn{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
         .section{animation:fadeIn .6s ease-out}
@@ -120,10 +84,22 @@
     <section class="section">
         <h2>Interests</h2>
         <div class="interest-tags">
-            <span class="interest-tag">Open-Source</span>
-            <span class="interest-tag">Android Dev</span>
-            <span class="interest-tag">UI/UX Design</span>
-            <span class="interest-tag">Community</span>
+            <span class="interest-tag">
+                <i class="ri-github-fill"></i>
+                Open-Source
+            </span>
+            <span class="interest-tag">
+                <i class="ri-android-fill"></i>
+                Android Dev
+            </span>
+            <span class="interest-tag">
+                <i class="ri-palette-fill"></i>
+                UI/UX Design
+            </span>
+            <span class="interest-tag">
+                <i class="ri-team-fill"></i>
+                Community
+            </span>
         </div>
     </section>
 
@@ -188,9 +164,9 @@
                 <i class="ri-youtube-fill"></i>
                 <span>YouTube</span>
             </a>
-            <a href="https://dribbble.com/SandKshnbh" class="portfolio-icon">
-                <i class="ri-dribbble-fill"></i>
-                <span>Dribbble</span>
+            <a href="https://facebook.com/SandKshnbh" class="portfolio-icon">
+                <i class="ri-facebook-fill"></i>
+                <span>Facebook</span>
             </a>
         </div>
     </section>
@@ -198,8 +174,14 @@
     <section class="section">
         <h2>Get In Touch</h2>
         <div class="contact-info">
-            <a href="mailto:sand@example.com" class="contact-item">sand@example.com</a>
-            <a href="https://t.me/SandKshnbh" class="contact-item">@SandKshnbh</a>
+            <a href="mailto:sand@example.com" class="contact-item">
+                <i class="ri-mail-fill"></i>
+                sand@example.com
+            </a>
+            <a href="https://t.me/SandKshnbh" class="contact-item">
+                <i class="ri-telegram-fill"></i>
+                @SandKshnbh
+            </a>
         </div>
     </section>
 </div>
