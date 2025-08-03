@@ -55,9 +55,41 @@
             font-size: 0.95em;
         }
 
-        .portfolio-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:15px}
-        .portfolio-link{background:#00ff9d;color:#000;padding:15px;border-radius:10px;text-align:center;font-weight:600;transition:.3s}
-        .portfolio-link:hover{transform:translateY(-3px);box-shadow:0 5px 15px rgba(0,255,157,.4)}
+        /* Portfolio icons grid */
+        .portfolio-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 20px;
+        }
+        .portfolio-icon {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            color: #00ff9d;
+            font-size: 3rem;
+            text-decoration: none;
+            transition: .3s;
+            padding: 20px;
+            border-radius: 16px;
+            background: #0a0a0a;
+            border: 1px solid #1a1a1a;
+        }
+        .portfolio-icon:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 255, 157, .3);
+            background: #00ff9d;
+            color: #000;
+        }
+        .portfolio-icon span {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #e0e0e0;
+        }
+        .portfolio-icon:hover span {
+            color: #000;
+        }
+
         .contact-info{display:flex;justify-content:center;gap:30px;flex-wrap:wrap;margin-top:20px}
         .contact-item{color:#00ff9d;font-weight:600;text-decoration:none;transition:.3s}
         .contact-item:hover{color:#00cc7a}
@@ -140,11 +172,26 @@
     <section class="section">
         <h2>Portfolio</h2>
         <div class="portfolio-grid">
-            <a href="https://github.com/SandKshnbh" class="portfolio-link">GitHub</a>
-            <a href="https://twitter.com/SandKshnbh" class="portfolio-link">Twitter</a>
-            <a href="https://behance.net/SandKshnbh" class="portfolio-link">Behance</a>
-            <a href="https://youtube.com/@SandKshnbh" class="portfolio-link">YouTube</a>
-            <a href="https://dribbble.com/SandKshnbh" class="portfolio-link">Dribbble</a>
+            <a href="https://github.com/SandKshnbh" class="portfolio-icon">
+                <i class="ri-github-fill"></i>
+                <span>GitHub</span>
+            </a>
+            <a href="https://twitter.com/SandKshnbh" class="portfolio-icon">
+                <i class="ri-twitter-fill"></i>
+                <span>Twitter</span>
+            </a>
+            <a href="https://behance.net/SandKshnbh" class="portfolio-icon">
+                <i class="ri-behance-fill"></i>
+                <span>Behance</span>
+            </a>
+            <a href="https://youtube.com/@SandKshnbh" class="portfolio-icon">
+                <i class="ri-youtube-fill"></i>
+                <span>YouTube</span>
+            </a>
+            <a href="https://dribbble.com/SandKshnbh" class="portfolio-icon">
+                <i class="ri-dribbble-fill"></i>
+                <span>Dribbble</span>
+            </a>
         </div>
     </section>
 
