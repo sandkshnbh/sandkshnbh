@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 Languages & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,js,html,css,python,cpp,c,postgresql,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,js,html,css,python,cpp,c,postgresql,git,github&theme=light" />
 </p>
 
 ---
