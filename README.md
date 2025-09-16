@@ -1,6 +1,6 @@
 <!-- README.md GitHub Profile -->
 <div align="center">
-  
+
   <!-- Animated gradient text for name -->
   <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
     <defs>
@@ -15,35 +15,38 @@
     </defs>
     <rect width="100%" height="100%" fill="#0b1220" />
     <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="46" font-family="Segoe UI, Roboto, Arial" fill="url(#grad)">
-      سـنـد كـشـنـبـه (Sand Kshnbh)
+      Sand Kshnbh
     </text>
   </svg>
 
-  <p>مطور من ليبيا 🇱🇾 · أحب البرمجة، تصميم الواجهات، وإنشاء أشياء تفاعلية بأناقة ✨</p>
+  <!-- Simple animated GIF for extra motion -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" alt="animated rocket" />
+
+  <p>Developer from Libya 🇱🇾 · I love coding, UI design, and creating interactive animations ✨</p>
 </div>
 
 ---
 
-## 🧑‍💻 لغات و أدوات أستخدمها
+## 🧑‍💻 Languages & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,python,postgresql,git,github,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,js,html,css,python,cpp,c,postgresql,git,github" />
 </p>
 
 ---
 
-## 🙏 شكر و تقدير
+## 🙏 Acknowledgment
 <p align="center">
-أشكر كل من:
+Thanks to everyone who:
 </p>
 
-- 🌟 يحمّل مشاريعي ويجربها
-- 💖 يدعمني بنصيحة أو مساهمة أو حتى نجمة ⭐ على المستودعات
+- 🌟 Downloads and tries my projects
+- 💖 Supports me with feedback, contributions, or a ⭐ star
 
-<p align="center">أنتم السبب في استمراري ✨</p>
+<p align="center">You are the reason I keep going ✨</p>
 
 ---
 
-## 📊 نسب استخدام لغاتي
+## 📊 Language Usage
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandkshnbh&layout=compact&theme=radical" />
 </p>
@@ -51,5 +54,5 @@
 ---
 
 <div align="center">
-  🚀 إذا حبيت تدعمني أكثر: اعمل ⭐ للمستودعات، أو شارك مشاريعي مع غيرك 🙌
+  🚀 Want to support me more? Give a ⭐ to my repos or share my work 🙌
 </div>
