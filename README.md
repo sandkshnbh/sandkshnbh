@@ -1,58 +1,49 @@
-<!-- README.md GitHub Profile (Black & White Theme) -->
+### About me
+
+<img align="right" width="33%" src="512px.png">
+
+Hi, I'm **Sand Kshnbh** 👋.  
+I'm a hobbyist software developer from Libya, passionate about building simple, useful tools and learning new technologies every day.  
+
+I started coding back in my school days (around 2019) with **Python** and **C++**, creating small games, CLI tools, and automation scripts.  
+Now I continue developing my skills and exploring open-source projects, while working towards becoming a professional software developer. 🚀  
+
+---
+
+### Languages
+
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,c,bash,html,css&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,c,bash,html,css&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+---
+
+### Technologies
+
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,gitlab,vscode,androidstudio,qt,cmake,fedora,ubuntu,debian,arch&theme=light&perline=8#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,gitlab,vscode,androidstudio,qt,cmake,fedora,ubuntu,debian,arch&theme=dark&perline=8#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+---
+
+### Other skills
+
+[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,inkscape&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
+[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,inkscape&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+---
+
+### Stats
+
 <div align="center">
 
-  <!-- Animated gradient text for name (black & white wave) -->
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-    <defs>
-      <linearGradient id="grad-bw" x1="0%" x2="100%">
-        <stop offset="0%" stop-color="#ffffff">
-          <animate attributeName="stop-color" values="#ffffff;#000000;#ffffff" dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#000000">
-          <animate attributeName="stop-color" values="#000000;#ffffff;#000000" dur="6s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100%" fill="#0b0b0b" />
-    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="46" font-family="Segoe UI, Roboto, Arial" fill="url(#grad-bw)">
-      Sand Kshnbh
-    </text>
-  </svg>
+[![Sand's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sandkshnbh&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![Sand's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sandkshnbh&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 
-  <!-- Animated fun icon (black & white) -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" alt="fun b&w gif" />
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sandkshnbh&layout=donut&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=sandkshnbh&layout=donut&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 
-  <p style="color:#fff;">Developer from Libya · I love coding, UI design, and creating interactive animations</p>
-</div>
+[![GitHub Streak-dark](https://streak-stats.demolab.com?user=sandkshnbh&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)  
+[![GitHub Streak-light](https://streak-stats.demolab.com?user=sandkshnbh&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)  
 
----
+[![Sand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandkshnbh&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🧑‍💻 Languages & Tools I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,js,html,css,python,cpp,c,postgresql,git,github&theme=light" />
-</p>
-
----
-
-## Acknowledgment
-<p align="center">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="30" alt="star gif" /> Thanks to everyone who:
-</p>
-
-- <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="25" alt="download gif" /> Downloads and tries my projects  
-- <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="25" alt="heart gif" /> Supports me with feedback, contributions, or a star
-
-<p align="center">You are the reason I keep going <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="25" alt="spark gif" /></p>
-
----
-
-## Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandkshnbh&layout=compact&theme=graywhite" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="25" alt="rocket gif" /> Want to support me more? Give a ⭐ to my repos or share my work
 </div>
