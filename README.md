@@ -12,15 +12,15 @@ Now I continue developing my skills and exploring open-source projects, while wo
 
 ### Languages
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,python,java,cpp,c,bash,html,css&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,python,java,cpp,c,bash,html,css&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,python,java,cpp,c,bash,html,css&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,python,java,cpp,c,bash,html,css&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ---
 
 ### Technologies
 
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,android,gradle,cmake,qt,linux,git,github,gitlab,androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=light&perline=8#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,android,gradle,cmake,qt,linux,git,github,gitlab,androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=dark&perline=8#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,android,gradle,cmake,qt,linux,git,github,gitlab,androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=light&perline=8#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
+[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,android,gradle,cmake,qt,linux,git,github,gitlab,androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=dark&perline=8#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ---
 
