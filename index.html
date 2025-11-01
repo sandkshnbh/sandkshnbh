@@ -28,10 +28,11 @@
             margin: 0 auto;
             padding: 20px;
         }
+        /* الهيدر sticky بدون أي انتقال على transform/position */
         .header {
             background: rgba(255, 255, 255, 0.85);
             color: #000;
-            padding: 4px 0; /* ✅ أقصر ما يمكن */
+            padding: 4px 0;
             text-align: center;
             border-radius: 24px;
             margin-bottom: 30px;
@@ -40,15 +41,16 @@
             -webkit-backdrop-filter: blur(12px);
             border: 1px solid rgba(255, 255, 255, 0.18);
             position: sticky;
-            top: 0;
-            z-index: 1000;
+            top: 8px; /* المسافة البسيطة من أعلى الشاشة */
+            z-index: 100;
+            /* لا نضع transition مطلقاً */
         }
         .header h1 {
-            font-size: 1.4em; /* ✅ أصغر */
+            font-size: 1.4em;
             margin-bottom: 2px;
         }
         .header p {
-            font-size: 0.75em; /* ✅ أصغر */
+            font-size: 0.75em;
             opacity: .85;
         }
         .section {
@@ -308,7 +310,8 @@
 </head>
 <body>
     <div class="container">
-        <header class="header">
+        <!-- الهيدر نفسه sticky -->
+        <header class="header" id="header">
             <h1>Sand Kshnbh</h1>
             <p>Self-taught Libyan developer & innovator creating open-source tools for Arabic users, focused on lightweight Android apps and clean UI/UX.</p>
         </header>
