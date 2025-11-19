@@ -1,49 +1,57 @@
-### About me
+<div align="center">
+  <img src="sk.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #333;">
+  
+  # Sand Kshnbh
+  
+  **Developer & Innovator from Libya** 🇱🇾
+  
+  Self-taught developer passionate about building open-source tools, Android apps, and clean UI/UX.
+  
+  [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sandkshnbh.github.io/SK)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SandKshnbh)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SandKshnbh)
+  
+</div>
 
-<img align="right" width="33%" src="512px.png">
+---
+
+### 👨‍💻 About Me
 
 Hi, I'm **Sand Kshnbh** 👋.  
-I'm a hobbyist software developer from Libya, passionate about building simple, useful tools and learning new technologies every day.  
+I'm a 20-year-old hobbyist software developer from Libya. I started my journey in 2019 with Python and C++, and now I focus on **Flutter**, **Android**, and **Web Development**. I love creating simple, useful tools that solve real problems.
 
-I started coding back in my school days (around 2019) with **Python** and **C++**, creating small games, CLI tools, and automation scripts.  
-Now I continue developing my skills and exploring open-source projects, while working towards becoming a professional software developer. 🚀  
-
----
-
-### Languages
-
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,python,java,cpp,c,bash,html,css&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,python,java,cpp,c,bash,html,css&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+- 🔭 I’m currently working on open-source tools for Arabic users.
+- 🌱 I’m currently learning **Advanced Flutter Architecture** and **Backend Development**.
+- 💬 Ask me about **Flutter, Python, or UI Design**.
 
 ---
 
-### Technologies
-
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,android,gradle,cmake,qt,linux,git,github,gitlab,androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=light&perline=8#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
-[![Technologies](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,android,gradle,cmake,qt,linux,git,github,gitlab,androidstudio,vscode,pycharm,webstorm,fedora,ubuntu,debian,arch&theme=dark&perline=8#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-
----
-
-### Other skills
-
-[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,inkscape&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)  
-[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,inkscape&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-
----
-
-### Stats
+### 🛠️ Tech Stack
 
 <div align="center">
 
-[![Sand's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sandkshnbh&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
-[![Sand's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sandkshnbh&show_icons=true&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+**Languages**  
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=dart,python,kotlin,java,cpp,c,html,css,js&theme=dark)](https://skillicons.dev)
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sandkshnbh&layout=donut&theme=dark&bg_color=0d1117&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=sandkshnbh&layout=donut&theme=default&bg_color=ffffff&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+**Frameworks & Tools**  
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=flutter,android,firebase,supabase,git,github,vscode,figma,linux&theme=dark)](https://skillicons.dev)
 
-[![GitHub Streak-dark](https://streak-stats.demolab.com?user=sandkshnbh&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)  
-[![GitHub Streak-light](https://streak-stats.demolab.com?user=sandkshnbh&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)  
+</div>
 
-[![Sand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandkshnbh&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![Sand's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandkshnbh&show_icons=true&theme=dark&bg_color=0a0a0a&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandkshnbh&layout=donut&theme=dark&bg_color=0a0a0a&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by Sand Kshnbh</p>
 </div>
